@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96ae6a84033101c418425ffc3b768750, type: 3}
+  m_Name: InvDatabase
+  m_EditorClassIdentifier: 
+  items:
+  - name: 417865
+    discription: 776f6f6420617865
+    ID: -1
+    combineID: -3
+    resultID: -4
+    combineDiscription: 426f74682070696365732066697420746f676174686572
+    icon: {fileID: 21300000, guid: fe992d6c84fcd3247b9f8fdbd41216c3, type: 3}
+    splitIDs: 
+    splitDiscription: 
+  - name: 4a6577656c
+    discription: 526564206a6577656c
+    ID: -2
+    combineID: 0
+    resultID: 0
+    combineDiscription: 
+    icon: {fileID: 21300000, guid: 54f54ff51e3d6ac4faa5180f66737bd0, type: 3}
+    splitIDs: 
+    splitDiscription: 
+  - name: 53696c76657220436f696e
+    discription: 412053696c76657220636f696e
+    ID: -3
+    combineID: -1
+    resultID: -4
+    combineDiscription: 426f74682070696365732066697420746f676174686572
+    icon: {fileID: 21300000, guid: 50bd5088fb2ddc54cb1e0abef48b0775, type: 3}
+    splitIDs: 
+    splitDiscription: 
+  - name: 426c756520436f696e
+    discription: 4120426c756520436f696e
+    ID: -4
+    combineID: 0
+    resultID: 0
+    combineDiscription: 426f74682070696365732066697420746f676174686572
+    icon: {fileID: 21300000, guid: c69fc7a5bbe87374c8c696659d0e6a6b, type: 3}
+    splitIDs: 
+    splitDiscription: 

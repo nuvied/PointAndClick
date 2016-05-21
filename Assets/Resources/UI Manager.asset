@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5db26fdc0d776f4fbe30406e089adc4, type: 3}
+  m_Name: UI Manager
+  m_EditorClassIdentifier: 
+  cursor: {fileID: 128044, guid: d8b5ac8e364901e449ed123203b04467, type: 2}
+  gUI:
+  - name: 496e76656e746f7279
+    canvas: {fileID: 22318460, guid: c5dac3d95f7d67f4c9fd74d43bed26f3, type: 2}
+    text: 
+    enableOnStart: 0
+  - name: 537065656368
+    canvas: {fileID: 22396188, guid: c4b366592cfaa9543b05b51195f760a8, type: 2}
+    text: 
+    enableOnStart: 0
+  - name: 496e76427574746f6e
+    canvas: {fileID: 22362008, guid: 518c6148b8131774a810f0511fd70718, type: 2}
+    text: 496e76656e746f7279
+    enableOnStart: 1
